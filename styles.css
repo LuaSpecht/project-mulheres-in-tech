@@ -1,0 +1,80 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.main-content{
+  background-image: url('/assets/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100vw;
+  height: 100vh;
+  background-position: center;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.first-section{
+width: 20%;
+display: flex;
+flex-direction: column;
+gap: 32px;
+margin-right: 30px;
+}
+
+.first-section > h1 {
+font-family: 'PT Serif', serif;
+font-size: 56px;
+}
+
+.first-section > p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+}
+
+.first-section > button{
+background-color: #010101;
+border: 2px #000 solid;
+color: white;
+width: 175px;
+padding: 14px;
+border-radius: 20px;
+}
+
+.first-section > button:hover {
+  background-color: #fff;
+  color: black;
+  border: 2px #000 solid;
+}
+
+.second-section {
+color: #fff;
+display: flex;
+flex-direction: column;
+gap: 60px;
+}
+
+.image-box{
+  font-family: 'Poppins',sans-serif;
+  font-weight: 300;
+  width: 200px;
+  font-size: 12px;
+}
+
+.image-box > img {
+ width: 332px;
+ height: 296px;
+}
+
+.card-box{
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+.card-box > span{
+  font-family: 'PT Serif', serif;
+  font-size: 18px;
+}
