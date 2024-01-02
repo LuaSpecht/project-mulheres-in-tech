@@ -4,6 +4,8 @@
 
 <p align="center"> O Intuito deste projeto era dar uma aula teste para iniciantes na área de desenvolvimento front-end apresentando um projeto simples a partir da visão de uma pessoa mais experiente.</p>
 
+Para acessar a página do projeto: https://luaspecht.github.io/project-mulheres-in-tech/
+
 > A iniciativa foi um passo do grupo de Front-end dentro da comunidade que é administrada pela incrivel [Helen Formiguieri](https://www.linkedin.com/in/helenformighieri/) e eu em conjunto de todas as outras adms de diversas areas que são abraçadas pelo projeto.
 
 A Mentora da vez, foi a genial **[Djaniza Vasques](https://www.linkedin.com/in/djaniza/)** que nos ajudou em tudo
