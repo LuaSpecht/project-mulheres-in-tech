@@ -40,5 +40,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 Entre em contato 👋🏻🌼
 
-[![Linkedin Badge](https://img.shields.io/badge/-LuanaSpecht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-specht-bragante-3a198b115/)
+![Linkedin Badge](https://img.shields.io/badge/-LuanaSpecht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-specht-bragante-3a198b115/)
 [![Gmail Badge](https://img.shields.io/badge/-luaspecht@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luaspecht@gmail.com)](mailto:luaspecht@gmail.com)
