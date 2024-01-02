@@ -28,3 +28,17 @@ As seguintes ferramentas foram usadas na construção do projeto:
 <p align="center">A Comunidade Mulheres e Tecnologia foi criada para nos aproximarmos e criarmos uma grande rede de networking e amizade onde todas temos a liberdade de ser o que e quem quiser. Ocupamos um lugar no coração de todos os tipos de mulheres, de todos os níveis de senioridade e nas mais diversas áreas de TI.</p>
 
 <p align="center">Sinta-se a vontade para <a href="https://lnkd.in/dYUCBwm7" >se juntar a nós</a></p>
+
+<br>
+
+### Autora
+
+<a href="https://blog.rocketseat.com.br/author/thiago/">
+ <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/101610064?v=4" width="100px;" alt=""/>
+ <br />
+ <sub><b>Luana Specht Bragante</b></sub></a> <a href="https://www.linkedin.com/in/luana-specht-bragante-3a198b115/" title="Nome da autora"> 🌙</a>
+
+Entre em contato 👋🏻🌼
+
+[![Linkedin Badge](https://img.shields.io/badge/-LuanaSpecht-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luana-specht-bragante-3a198b115/)
+[![Gmail Badge](https://img.shields.io/badge/-luaspecht@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luaspecht@gmail.com)](mailto:luaspecht@gmail.com)
